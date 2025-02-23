@@ -236,8 +236,7 @@ namespace VideoProcessing
             }
         }
     };
-
-} // namespace VideoProcessing
+}
 
 int main()
 {
