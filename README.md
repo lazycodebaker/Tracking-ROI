@@ -131,10 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by real-time computer vision applications.
 
 ---
-
-### Notes
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- If you have a specific `CMakeLists.txt` or additional files (e.g., `LICENSE`), mention them in the README or adjust the build instructions accordingly.
-- You might want to add a sample video or screenshot to the repo and link it in the README (e.g., under a "Screenshots" section).
-
-Let me know if you'd like to tweak this further!
+ 
