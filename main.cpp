@@ -19,8 +19,7 @@ namespace VideoProcessing
         static inline const cv::Size DEFAULT_OUTPUT_SIZE = cv::Size(OUTPUT_WIDTH, OUTPUT_HEIGHT);
         static inline const int DEFAULT_CODEC = cv::VideoWriter::fourcc('X', '2', '6', '4');
     };
-
-    // Moved Config outside VideoProcessor
+ 
     struct Config
     {
         std::string input_path = DEFAULT_VIDEO_PATH;
